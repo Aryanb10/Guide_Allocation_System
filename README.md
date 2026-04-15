@@ -19,6 +19,7 @@ User / Admin interface -> Application backend -> Database
 ### Entities
 - Student
 - Guide / Faculty
+- Admin
 - Project
 - Allocation
 
